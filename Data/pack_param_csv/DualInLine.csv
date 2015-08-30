@@ -1,0 +1,43 @@
+Footprint name,Library name,Description,Tags,Package type,Spacing between rows,Number of pads,Pitch,Pad length,Pad width,Body width max,Body length max,Pad shape,Drill size,Body width
+DIP-10_W7.62mm,Housings_DIP,"10-lead dip package, row spacing 7.62 mm (300 mils)",dil dip 2.54 300,DIL,7.62,10,2.54,1.6,1.6,7.2,14.6,oval,0.8,6.5
+DIP-10_W7.62mm_LongPads,Housings_DIP,"10-lead dip package, row spacing 7.62 mm (300 mils), longer pads",dil dip 2.54 300,DIL,7.62,10,2.54,2.3,1.6,7.2,14.6,oval,0.8,6.5
+DIP-14_W7.62mm,Housings_DIP,"14-lead dip package, row spacing 7.62 mm (300 mils)",dil dip 2.54 300,DIL,7.62,14,2.54,1.6,1.6,7.2,19.68,oval,0.8,6.5
+DIP-14_W7.62mm_LongPads,Housings_DIP,"14-lead dip package, row spacing 7.62 mm (300 mils), longer pads",dil dip 2.54 300,DIL,7.62,14,2.54,2.3,1.6,7.2,19.68,oval,0.8,6.5
+DIP-16_W7.62mm,Housings_DIP,"16-lead dip package, row spacing 7.62 mm (300 mils)",dil dip 2.54 300,DIL,7.62,16,2.54,1.6,1.6,7.2,22.22,oval,0.8,6.5
+DIP-16_W7.62mm_LongPads,Housings_DIP,"16-lead dip package, row spacing 7.62 mm (300 mils), longer pads",dil dip 2.54 300,DIL,7.62,16,2.54,2.3,1.6,7.2,22.22,oval,0.8,6.5
+DIP-18_W7.62mm,Housings_DIP,"18-lead dip package, row spacing 7.62 mm (300 mils)",dil dip 2.54 300,DIL,7.62,18,2.54,1.6,1.6,7.2,24.76,oval,0.8,6.5
+DIP-18_W7.62mm_LongPads,Housings_DIP,"18-lead dip package, row spacing 7.62 mm (300 mils), longer pads",dil dip 2.54 300,DIL,7.62,18,2.54,2.3,1.6,7.2,24.76,oval,0.8,6.5
+DIP-20_W7.62mm,Housings_DIP,"20-lead dip package, row spacing 7.62 mm (300 mils)",dil dip 2.54 300,DIL,7.62,20,2.54,1.6,1.6,7.2,27.3,oval,0.8,6.5
+DIP-20_W7.62mm_LongPads,Housings_DIP,"20-lead dip package, row spacing 7.62 mm (300 mils), longer pads",dil dip 2.54 300,DIL,7.62,20,2.54,2.3,1.6,7.2,27.3,oval,0.8,6.5
+DIP-22_W10.16mm,Housings_DIP,"22-lead dip package, row spacing 10.16 mm (400 mils)",dil dip 2.54 400,DIL,10.16,22,2.54,1.6,1.6,9.74,29.84,oval,0.8,6.5
+DIP-22_W10.16mm_LongPads,Housings_DIP,"22-lead dip package, row spacing 10.16 mm (400 mils), longer pads",dil dip 2.54 400,DIL,10.16,22,2.54,2.3,1.6,9.74,29.84,oval,0.8,6.5
+DIP-22_W7.62mm,Housings_DIP,"22-lead dip package, row spacing 7.62 mm (300 mils)",dil dip 2.54 300,DIL,7.62,22,2.54,1.6,1.6,7.2,29.84,oval,0.8,6.5
+DIP-22_W7.62mm_LongPads,Housings_DIP,"22-lead dip package, row spacing 7.62 mm (300 mils), longer pads",dil dip 2.54 300,DIL,7.62,22,2.54,2.3,1.6,7.2,29.84,oval,0.8,6.5
+DIP-24_W10.16mm,Housings_DIP,"24-lead dip package, row spacing 10.16 mm (400 mils)",dil dip 2.54 400,DIL,10.16,24,2.54,1.6,1.6,9.74,32.38,oval,0.8,6.5
+DIP-24_W10.16mm_LongPads,Housings_DIP,"24-lead dip package, row spacing 10.16 mm (400 mils), longer pads",dil dip 2.54 400,DIL,10.16,24,2.54,2.3,1.6,9.74,32.38,oval,0.8,6.5
+DIP-24_W15.24mm,Housings_DIP,"24-lead dip package, row spacing 15.24 mm (600 mils)",dil dip 2.54 600,DIL,15.24,24,2.54,1.6,1.6,14.82,32.38,oval,0.8,6.5
+DIP-24_W15.24mm_LongPads,Housings_DIP,"24-lead dip package, row spacing 15.24 mm (600 mils), longer pads",dil dip 2.54 600,DIL,15.24,24,2.54,2.3,1.6,14.82,32.38,oval,0.8,6.5
+DIP-24_W7.62mm,Housings_DIP,"24-lead dip package, row spacing 7.62 mm (300 mils)",dil dip 2.54 300,DIL,7.62,24,2.54,1.6,1.6,7.2,32.38,oval,0.8,6.5
+DIP-24_W7.62mm_LongPads,Housings_DIP,"24-lead dip package, row spacing 7.62 mm (300 mils), longer pads",dil dip 2.54 300,DIL,7.62,24,2.54,2.3,1.6,7.2,32.38,oval,0.8,6.5
+DIP-28_W15.24mm,Housings_DIP,"28-lead dip package, row spacing 15.24 mm (600 mils)",dil dip 2.54 600,DIL,15.24,28,2.54,1.6,1.6,14.82,37.46,oval,0.8,6.5
+DIP-28_W15.24mm_LongPads,Housings_DIP,"28-lead dip package, row spacing 15.24 mm (600 mils), longer pads",dil dip 2.54 600,DIL,15.24,28,2.54,2.3,1.6,14.82,37.46,oval,0.8,6.5
+DIP-28_W7.62mm,Housings_DIP,"28-lead dip package, row spacing 7.62 mm (300 mils)",dil dip 2.54 300,DIL,7.62,28,2.54,1.6,1.6,7.2,37.46,oval,0.8,6.5
+DIP-28_W7.62mm_LongPads,Housings_DIP,"28-lead dip package, row spacing 7.62 mm (300 mils), longer pads",dil dip 2.54 300,DIL,7.62,28,2.54,2.3,1.6,7.2,37.46,oval,0.8,6.5
+DIP-32_W15.24mm,Housings_DIP,"32-lead dip package, row spacing 15.24 mm (600 mils)",dil dip 2.54 600,DIL,15.24,32,2.54,1.6,1.6,14.82,42.54,oval,0.8,6.5
+DIP-32_W15.24mm_LongPads,Housings_DIP,"32-lead dip package, row spacing 15.24 mm (600 mils), longer pads",dil dip 2.54 600,DIL,15.24,32,2.54,2.3,1.6,14.82,42.54,oval,0.8,6.5
+DIP-40_W15.24mm,Housings_DIP,"40-lead dip package, row spacing 15.24 mm (600 mils)",dil dip 2.54 600,DIL,15.24,40,2.54,1.6,1.6,14.82,52.7,oval,0.8,6.5
+DIP-40_W15.24mm_LongPads,Housings_DIP,"40-lead dip package, row spacing 15.24 mm (600 mils), longer pads",dil dip 2.54 600,DIL,15.24,40,2.54,2.3,1.6,14.82,52.7,oval,0.8,6.5
+DIP-40_W25.4mm,Housings_DIP,"40-lead dip package, row spacing 25.4 mm (1000 mils)",dil dip 2.54 1000,DIL,25.4,40,2.54,1.6,1.6,22.44,52.7,oval,0.8,6.5
+DIP-40_W25.4mm_LongPads,Housings_DIP,"40-lead dip package, row spacing 25.4 mm (1000 mils), longer pads",dil dip 2.54 1000,DIL,25.4,40,2.54,2.3,1.6,22.44,52.7,oval,0.8,6.5
+DIP-48_W15.24mm,Housings_DIP,"48-lead dip package, row spacing 15.24 mm (600 mils)",dil dip 2.54 600,DIL,15.24,48,2.54,1.6,1.6,14.82,62.86,oval,0.8,6.5
+DIP-48_W15.24mm_LongPads,Housings_DIP,"48-lead dip package, row spacing 15.24 mm (600 mils), longer pads",dil dip 2.54 600,DIL,15.24,48,2.54,2.3,1.6,14.82,62.86,oval,0.8,6.5
+DIP-4_W7.62mm,Housings_DIP,"4-lead dip package, row spacing 7.62 mm (300 mils)",dil dip 2.54 300,DIL,7.62,4,2.54,1.6,1.6,7.2,6.98,oval,0.8,6.5
+DIP-4_W7.62mm_LongPads,Housings_DIP,"4-lead dip package, row spacing 7.62 mm (300 mils), longer pads",dil dip 2.54 300,DIL,7.62,4,2.54,2.3,1.6,7.2,6.98,oval,0.8,6.5
+DIP-64_W15.24mm,Housings_DIP,"64-lead dip package, row spacing 15.24 mm (600 mils)",dil dip 2.54 600,DIL,15.24,64,2.54,1.6,1.6,14.82,83.18,oval,0.8,6.5
+DIP-64_W15.24mm_LongPads,Housings_DIP,"64-lead dip package, row spacing 15.24 mm (600 mils), longer pads",dil dip 2.54 600,DIL,15.24,64,2.54,2.3,1.6,14.82,83.18,oval,0.8,6.5
+DIP-64_W22.86mm,Housings_DIP,"64-lead dip package, row spacing 22.86 mm (900 mils)",dil dip 2.54 900,DIL,22.86,64,2.54,1.6,1.6,22.44,83.18,oval,0.8,6.5
+DIP-64_W22.86mm_LongPads,Housings_DIP,"64-lead dip package, row spacing 22.86 mm (900 mils), longer pads",dil dip 2.54 900,DIL,22.86,64,2.54,2.3,1.6,22.44,83.18,oval,0.8,6.5
+DIP-6_W7.62mm,Housings_DIP,"6-lead dip package, row spacing 7.62 mm (300 mils)",dil dip 2.54 300,DIL,7.62,6,2.54,1.6,1.6,7.2,9.52,oval,0.8,6.5
+DIP-6_W7.62mm_LongPads,Housings_DIP,"6-lead dip package, row spacing 7.62 mm (300 mils), longer pads",dil dip 2.54 300,DIL,7.62,6,2.54,2.3,1.6,7.2,9.52,oval,0.8,6.5
+DIP-8_W7.62mm,Housings_DIP,"8-lead dip package, row spacing 7.62 mm (300 mils)",dil dip 2.54 300,DIL,7.62,8,2.54,1.6,1.6,7.2,12.06,oval,0.8,6.5
+DIP-8_W7.62mm_LongPads,Housings_DIP,"8-lead dip package, row spacing 7.62 mm (300 mils), longer pads",dil dip 2.54 300,DIL,7.62,8,2.54,2.3,1.6,7.2,12.06,oval,0.8,6.5

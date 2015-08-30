@@ -1,0 +1,7 @@
+ #!/bin/bash
+
+for i in ./pack_param_csv/*
+do
+	./SYMLINK_KiCad_Footprint_Generator ./$i
+done
+

@@ -1,0 +1,4 @@
+Footprint name,Library name,Package type,Description,Manufacturer,Datasheet,Tags,Pad length,Pad width,Distance between pads centers,Pad shape,Silkscreen option,Body length max,Body width max,Body length,Body width,Body heigth,Lead width,Lead length,Noth,Standoff,Lead noth heigth,Lead noth width,Lead thickness,Lead-lead min spacing,Stand length,Stand width
+C_Polar_A,Capacitors_SMD,Chip_Polar_Capacitor,example,-,-,capacitor c polymer niobium tantalum a,2.2,1.35,2.82,rect,visible_after_assembly,3.4,1.8,3.2,1.6,1.6,1.2,0.8,0.4,0.1,0.4,0.4,0.13,1.2,1.1,1.3
+C_Polar_B,Capacitors_SMD,Chip_Polar_Capacitor,example,-,-,capacitor c polymer niobium tantalum b,2.21,2.35,3.13,rect,minimal,3.7,3,3.5,2.8,1.9,2.2,0.8,0.4,0.1,0.5,1,0.13,1.9,1.8,2.2
+C_Polar_C,Capacitors_SMD,Chip_Polar_Capacitor,example,-,-,capacitor c polymer niobium tantalum c,2.77,2.35,5.14,rect,outline,6.3,3.5,6,3.2,2.5,2.2,1.3,0.5,0.1,0.9,1,0.13,2.9,2.8,2.4

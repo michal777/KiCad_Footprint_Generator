@@ -1,0 +1,7 @@
+Footprint name,Library name,Package type,Description,Manufacturer,Datasheet,Tags,Pad length,Pad width,Distance between pads - end to end,Distance between pads centers,Overall width toe-to-toe min,Overall width toe-to-toe max,Terminal length min,Terminal length max,Terminal width min,Terminal width max,Pad shape,Silkscreen option,Land pattern option,Body width max,Body length max,Body width,Body length,Body height,Terminal length bottom,Terminal length top
+R_0603_LevelA_SilksOutl,Resistors_SMD,Chip_Resistor,example,-,-,resistor r 0603,0.5,0.9,0,1.5,1.5,1.65,0.1,0.5,0.75,0.95,rect,outline,ipc_a,0.95,1.65,0.85,1.55,0.45,0.3,0.3
+R_0805_LevelA_SilksOutl,Resistors_SMD,Chip_Resistor,example,-,-,resistor r 0805,0.7,1.3,0,1.9,1.9,2.2,0.2,0.5,1.1,1.4,rect,outline,ipc_a,1.4,2.2,1.25,2,0.45,0.3,0.3
+R_0603_LevelB,Resistors_SMD,Chip_Resistor,example,-,-,resistor r 0603,0.5,0.9,0,1.5,1.5,1.65,0.1,0.5,0.75,0.95,rect,visible_after_assembly,ipc_b,0.95,1.65,0.85,1.55,0.45,0.3,0.3
+R_0805_LevelB,Resistors_SMD,Chip_Resistor,example,-,-,resistor r 0805,0.7,1.3,0,1.9,1.9,2.2,0.2,0.5,1.1,1.4,rect,visible_after_assembly,ipc_b,1.4,2.2,1.25,2,0.45,0.3,0.3
+R_0603_LevelC_SilksMin,Resistors_SMD,Chip_Resistor,example,-,-,resistor r 0603,0.5,0.9,0,1.5,1.5,1.65,0.1,0.5,0.75,0.95,rect,minimal,ipc_c,0.95,1.65,0.85,1.55,0.45,0.3,0.3
+R_0805_LevelC_SilksMin,Resistors_SMD,Chip_Resistor,example,-,-,resistor r 0805,0.7,1.3,0,1.9,1.9,2.2,0.2,0.5,1.1,1.4,rect,minimal,ipc_c,1.4,2.2,1.25,2,0.45,0.3,0.3
